@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "moving-train-and-road-crossing100760107023", "moving-train-and-road-crossing100760107023\moving-train-and-road-crossing100760107023.vcxproj", "{E8D92C74-E65A-4DF7-AEBB-6FCFB3C1E931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D92C74-E65A-4DF7-AEBB-6FCFB3C1E931}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D92C74-E65A-4DF7-AEBB-6FCFB3C1E931}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D92C74-E65A-4DF7-AEBB-6FCFB3C1E931}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D92C74-E65A-4DF7-AEBB-6FCFB3C1E931}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

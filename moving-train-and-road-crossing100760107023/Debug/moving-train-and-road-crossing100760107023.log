@@ -1,0 +1,20 @@
+﻿Build started 19-Dec-13 10:51:58 AM.
+     1>Project "F:\sem6\my cg project\moving-train-and-road-crossing100760107023\moving-train-and-road-crossing100760107023\moving-train-and-road-crossing100760107023.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\moving-train-and-road-crossing100760107023.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\moving-train-and-road-crossing100760107023.unsuccessfulbuild".
+         Touching "Debug\moving-train-and-road-crossing100760107023.lastbuildstate".
+     1>Done Building Project "F:\sem6\my cg project\moving-train-and-road-crossing100760107023\moving-train-and-road-crossing100760107023\moving-train-and-road-crossing100760107023.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
